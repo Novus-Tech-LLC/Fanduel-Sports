@@ -193,13 +193,6 @@ Key guidelines:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed information.
 
-## Contact
-
-For questions, suggestions, or collaboration opportunities:
-
-- **Telegram**: [@Novus Tech](https://t.me/novustch)
-- **X (Twitter)**: [@Novus Tech](https://x.com/novustch)
-
 ## Documentation
 
 - [Farcaster Integration](./documentation/farcaster.md) - Farcaster Mini App setup and configuration
